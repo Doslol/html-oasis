@@ -1,0 +1,28 @@
+html{
+    background-color: #007F73;
+}
+
+h1{
+    color: #007F73;
+    background-color: #F1EEDC;
+}
+
+h2{
+    color:#FFC700;
+}
+
+h3{
+    color:#FFF455;
+}
+
+*{
+    text-align: center
+}
+
+p{
+    color:#F1EEDC;
+}
+
+li{
+    color:#4CCD99;
+}
